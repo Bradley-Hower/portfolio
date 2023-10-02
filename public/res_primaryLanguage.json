@@ -38,7 +38,7 @@
       {
         "title": "Rezzies",
         "startDate": "2023",
-        "description": "Rezzies is a collectible digital asset game targeted towards children. With the digital assets, they are limited to \"go exploring\" once per day to find fossils, or \"Rezzies\". Rezzies creates a platform for children to become interested in science and the natural world. It allows them to learn about past and current plants and animals, along with some important scientific facts. Additionally, it's fun!",
+        "description": "Rezzies is a collectible digital asset game targeted towards children. With the digital assets, they are limited to go exploring once per day to find fossils, or Rezzies. Rezzies creates a platform for children to become interested in science and the natural world. It allows them to learn about past and current plants and animals, along with some important scientific facts. Additionally, it's fun!",
         "images": [
           "images/portfolio/rezzies/p1.png",
           "images/portfolio/rezzies/p2.png",
@@ -61,8 +61,6 @@
         "startDate": "2023",
         "description": "I don't what it is, but it's going to be good.",
         "images": [
-          "images/portfolio/tbd/p1.png",
-          "images/portfolio/tbd/p2.png"
         ],
         "url": "https://github.com",
         "technologies": [
