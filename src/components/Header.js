@@ -59,7 +59,7 @@ class Header extends Component {
             <Switch 
               checked={this.state.checked}
               onChange={this.onThemeSwitchChange}
-              offColor="#7f7c46"
+              offColor="#BBBA9D"
               onColor="#353535"
               className="react-switch mx-auto"
               width={90}
