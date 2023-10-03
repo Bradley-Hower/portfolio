@@ -33,6 +33,7 @@ class Footer extends Component {
                   className="iconify language-icon mr-5"
                   data-icon="twemoji-flag-for-flag-united-kingdom"
                   data-inline="false"
+                  hidden="true"
                   id={window.$primaryLanguageIconId}
                 ></span>
               </div>
@@ -49,6 +50,7 @@ class Footer extends Component {
                   className="iconify language-icon"
                   data-icon="twemoji-flag-for-flag-poland"
                   data-inline="false"
+                  hidden="true"
                   id={window.$secondaryLanguageIconId}
                 ></span>
               </div>
